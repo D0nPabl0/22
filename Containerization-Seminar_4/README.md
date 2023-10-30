@@ -28,8 +28,3 @@
 ![command for linux containerization](https://github.com/Terekhov-A-S/Containerization-Seminar_4/blob/main/source/02-12-45.png?raw=true)
 ![command for linux containerization](https://github.com/Terekhov-A-S/Containerization-Seminar_4/blob/main/source/02-12-54.png?raw=true)
 
-
-
-
-
-*Подготовил студент Geek Brains* [**`Терехов Александр`**](https://gb.ru/users/7696463), containerization-Seminar_4
